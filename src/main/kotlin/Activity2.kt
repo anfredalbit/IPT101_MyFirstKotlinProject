@@ -1,4 +1,3 @@
-package org.example
 
 fun main() {
     print("Enter the number of students: ")

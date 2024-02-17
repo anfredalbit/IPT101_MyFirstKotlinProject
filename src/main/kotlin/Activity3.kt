@@ -1,4 +1,4 @@
-package org.example
+
 
 fun main() {
 
@@ -14,7 +14,6 @@ fun main() {
             println("Invalid age")
 
         } else {
-
 
             when {
 
