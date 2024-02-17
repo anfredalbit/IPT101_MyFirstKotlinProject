@@ -21,5 +21,4 @@ fun main(){
         println("The age is $age")
 
     }
-
 }

@@ -27,5 +27,6 @@ fun main() {
         averageGrade = totalMarks / 4.0
 
         print("The average grade for $name is $averageGrade")
+
     }
 }

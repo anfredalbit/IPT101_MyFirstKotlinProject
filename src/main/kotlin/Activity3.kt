@@ -27,7 +27,6 @@ fun main() {
                 else -> println("$name is a senior")
 
             }
-
         }
     }
 }
